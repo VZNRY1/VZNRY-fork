@@ -7,18 +7,22 @@ body {
     background-color: rgb(217, 234, 240);
     color: #555;
 }
+
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
     color: white;
     padding: 25px;
 }
+
 header h1 {
     margin: 0;
 }
+
 main h2 {
     color: black;
     text-decoration: underline;
 }
+
 .container {
     width: 65%;
     margin: 0 auto;
@@ -31,6 +35,12 @@ main h2 {
     padding: 3px;
 }
 
+.my-style {
+    color: darksalmon;
+    background-color: black;
+    padding: 3px;
+}
+
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
@@ -38,11 +48,11 @@ main h2 {
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background: rgb(92, 149, 235);
 }
 
 .stans-styles {
-    background-color:lightgray;
+    background-color: lightgray;
 }
 
 .my-bio {
